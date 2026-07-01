@@ -1,0 +1,5002 @@
+[
+  {
+    "pid": 5584,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.25,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 5760,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.09,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 6132,
+    "name": "msedge.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 7264,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.96,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 7536,
+    "name": "ipf_helper.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.02,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 8920,
+    "name": "svchost.exe",
+    "cpu_percent": 2.32,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 9912,
+    "name": "explorer.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 9976,
+    "name": "vmmemWSL",
+    "cpu_percent": 0.44,
+    "memory_percent": 18.21,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 10120,
+    "name": "svchost.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.04,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 10180,
+    "name": "ShellHost.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.7,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 11420,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 0.52,
+    "memory_percent": 0.69,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 12712,
+    "name": "ChatGPT.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.88,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 13140,
+    "name": "python.exe",
+    "cpu_percent": 7.88,
+    "memory_percent": 1.46,
+    "reason": "ML Anomaly (score=-0.37)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 14120,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.75,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 14416,
+    "name": "SearchProtocolHost.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.08,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 14520,
+    "name": "chrome.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 1.49,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 14920,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.91,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 15344,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.81,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 15640,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.63,
+    "memory_percent": 0.8,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 16244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.25,
+    "memory_percent": 0.51,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 16892,
+    "name": "BlueStacksServices.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.09,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 17100,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.47,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 17252,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 19112,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.21,
+    "memory_percent": 0.71,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 19568,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.27,
+    "memory_percent": 0.23,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 19640,
+    "name": "msedge.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.63,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 20176,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.22,
+    "memory_percent": 0.2,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 20520,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.27,
+    "memory_percent": 0.22,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 21376,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 4.5,
+    "memory_percent": 1.79,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 21856,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.82,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 22204,
+    "name": "Spotify.exe",
+    "cpu_percent": 1.95,
+    "memory_percent": 1.77,
+    "reason": "ML Anomaly (score=-0.28)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 22800,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.55,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 23736,
+    "name": "BackgroundTransferHost.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.07,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 24028,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.83,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 26244,
+    "name": "Code.exe",
+    "cpu_percent": 0.2,
+    "memory_percent": 2.61,
+    "reason": "ML Anomaly (score=-0.24)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 26340,
+    "name": "Code.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.8,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 26752,
+    "name": "chrome.exe",
+    "cpu_percent": 0.42,
+    "memory_percent": 1.36,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 26768,
+    "name": "chrome.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.31,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 26988,
+    "name": "chrome.exe",
+    "cpu_percent": 0.63,
+    "memory_percent": 1.1,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 28884,
+    "name": "Code.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 3.52,
+    "reason": "ML Anomaly (score=-0.30)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:00:40"
+  },
+  {
+    "pid": 1332,
+    "name": "lsass.exe",
+    "cpu_percent": 0.15,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 1644,
+    "name": "svchost.exe",
+    "cpu_percent": 0.34,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 1800,
+    "name": "dwm.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.75,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 2148,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 2228,
+    "name": "svchost.exe",
+    "cpu_percent": 1.59,
+    "memory_percent": 0.05,
+    "reason": "ML Anomaly (score=-0.28)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 2720,
+    "name": "svchost.exe",
+    "cpu_percent": 0.26,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 2760,
+    "name": "svchost.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.15,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 2996,
+    "name": "BlueStacksServices.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.25,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 3816,
+    "name": "MemCompression",
+    "cpu_percent": 0.03,
+    "memory_percent": 1.19,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 4060,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.37,
+    "memory_percent": 1.61,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 4324,
+    "name": "svchost.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.2,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 4412,
+    "name": "audiodg.exe",
+    "cpu_percent": 0.27,
+    "memory_percent": 0.34,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 4492,
+    "name": "ctfmon.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 4680,
+    "name": "svchost.exe",
+    "cpu_percent": 0.17,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 4848,
+    "name": "WmiPrvSE.exe",
+    "cpu_percent": 0.72,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.24)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 5584,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 5760,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.09,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 6132,
+    "name": "msedge.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 6136,
+    "name": "Code.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.42,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 6420,
+    "name": "mysqld.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.25,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 7264,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.97,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 7536,
+    "name": "ipf_helper.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.02,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 8920,
+    "name": "svchost.exe",
+    "cpu_percent": 1.84,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 9912,
+    "name": "explorer.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 1.06,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 9976,
+    "name": "vmmemWSL",
+    "cpu_percent": 0.23,
+    "memory_percent": 18.17,
+    "reason": "ML Anomaly (score=-0.33)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 10864,
+    "name": "LinkedIn.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.74,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 11060,
+    "name": "HP.HPX.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.78,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 11420,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 0.17,
+    "memory_percent": 0.73,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 12712,
+    "name": "ChatGPT.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.87,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 13140,
+    "name": "python.exe",
+    "cpu_percent": 8.09,
+    "memory_percent": 1.46,
+    "reason": "ML Anomaly (score=-0.40)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 14120,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.22,
+    "memory_percent": 0.76,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 14416,
+    "name": "SearchProtocolHost.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.08,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 14420,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 14520,
+    "name": "chrome.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 1.49,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 14920,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.9,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 15344,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.81,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 15640,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.8,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 16244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.23,
+    "memory_percent": 0.51,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 16892,
+    "name": "BlueStacksServices.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.09,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 17100,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.09,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 21376,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.8,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 21856,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 2.82,
+    "reason": "ML Anomaly (score=-0.26)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 22072,
+    "name": "DesktopExtension.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.38,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 22204,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.79,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 22800,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.56,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 22996,
+    "name": "svchost.exe",
+    "cpu_percent": 1.64,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 24028,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.82,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 26084,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.81,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 26232,
+    "name": "Code.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 26244,
+    "name": "Code.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 2.61,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 26340,
+    "name": "Code.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.8,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 26752,
+    "name": "chrome.exe",
+    "cpu_percent": 1.35,
+    "memory_percent": 1.2,
+    "reason": "ML Anomaly (score=-0.27)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 26988,
+    "name": "chrome.exe",
+    "cpu_percent": 0.77,
+    "memory_percent": 1.21,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 28708,
+    "name": "WMIADAP.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.07,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 28884,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 3.53,
+    "reason": "ML Anomaly (score=-0.33)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:09"
+  },
+  {
+    "pid": 1332,
+    "name": "lsass.exe",
+    "cpu_percent": 0.15,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 1472,
+    "name": "svchost.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 1644,
+    "name": "svchost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 1800,
+    "name": "dwm.exe",
+    "cpu_percent": 0.37,
+    "memory_percent": 0.75,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 2228,
+    "name": "svchost.exe",
+    "cpu_percent": 2.45,
+    "memory_percent": 0.05,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 2324,
+    "name": "svchost.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.07,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 2720,
+    "name": "svchost.exe",
+    "cpu_percent": 0.29,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 2760,
+    "name": "svchost.exe",
+    "cpu_percent": 0.52,
+    "memory_percent": 0.15,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 3816,
+    "name": "MemCompression",
+    "cpu_percent": 0.07,
+    "memory_percent": 1.21,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 4060,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.44,
+    "memory_percent": 1.61,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 4412,
+    "name": "audiodg.exe",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.34,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 4452,
+    "name": "svchost.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 4848,
+    "name": "WmiPrvSE.exe",
+    "cpu_percent": 0.75,
+    "memory_percent": 0.15,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 5584,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.27,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 5760,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.09,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 6132,
+    "name": "msedge.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 7264,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 8.7,
+    "memory_percent": 0.98,
+    "reason": "ML Anomaly (score=-0.37)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 8920,
+    "name": "svchost.exe",
+    "cpu_percent": 6.63,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.33)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 9136,
+    "name": "sihost.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 9436,
+    "name": "Code.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.56,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 9912,
+    "name": "explorer.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 1.06,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 9976,
+    "name": "vmmemWSL",
+    "cpu_percent": 0.24,
+    "memory_percent": 18.48,
+    "reason": "ML Anomaly (score=-0.30)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 11420,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.7,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 13140,
+    "name": "python.exe",
+    "cpu_percent": 7.9,
+    "memory_percent": 1.46,
+    "reason": "ML Anomaly (score=-0.37)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 13172,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.3,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 13384,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.27,
+    "memory_percent": 0.17,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 14120,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.8,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 14136,
+    "name": "ChatGPT.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.71,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 14416,
+    "name": "SearchProtocolHost.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.08,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 14420,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 14520,
+    "name": "chrome.exe",
+    "cpu_percent": 0.23,
+    "memory_percent": 1.49,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 14920,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.9,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 15344,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.82,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 15640,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.15,
+    "memory_percent": 0.8,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 16244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.2,
+    "memory_percent": 0.51,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 17100,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 17252,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.1,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 17488,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.28,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 19112,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.71,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 19568,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.23,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 20176,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.2,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 20476,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.53,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 20520,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.19,
+    "memory_percent": 0.22,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 21376,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 1.81,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 21856,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.13,
+    "memory_percent": 2.83,
+    "reason": "ML Anomaly (score=-0.24)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 22204,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.78,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 22800,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.57,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 24028,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 26244,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.61,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 26752,
+    "name": "chrome.exe",
+    "cpu_percent": 0.5,
+    "memory_percent": 1.28,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 26988,
+    "name": "chrome.exe",
+    "cpu_percent": 1.94,
+    "memory_percent": 1.16,
+    "reason": "ML Anomaly (score=-0.29)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 28884,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 3.53,
+    "reason": "ML Anomaly (score=-0.28)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:01:30"
+  },
+  {
+    "pid": 1168,
+    "name": "csrss.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.03,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 1644,
+    "name": "svchost.exe",
+    "cpu_percent": 0.41,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 1800,
+    "name": "dwm.exe",
+    "cpu_percent": 0.72,
+    "memory_percent": 0.81,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 2228,
+    "name": "svchost.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 3640,
+    "name": "svchost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 4060,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.56,
+    "memory_percent": 1.63,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 4324,
+    "name": "svchost.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 4412,
+    "name": "audiodg.exe",
+    "cpu_percent": 0.33,
+    "memory_percent": 0.37,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 5436,
+    "name": "python.exe",
+    "cpu_percent": 7.73,
+    "memory_percent": 1.41,
+    "reason": "ML Anomaly (score=-0.29)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 5584,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.19,
+    "memory_percent": 1.44,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 5620,
+    "name": "svchost.exe",
+    "cpu_percent": 0.42,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 5760,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.08,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 6136,
+    "name": "Code.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.43,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 6420,
+    "name": "mysqld.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.25,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 6592,
+    "name": "chrome.exe",
+    "cpu_percent": 0.28,
+    "memory_percent": 1.72,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 7264,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.33,
+    "memory_percent": 1.1,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 8920,
+    "name": "svchost.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 9912,
+    "name": "explorer.exe",
+    "cpu_percent": 3.34,
+    "memory_percent": 2.36,
+    "reason": "ML Anomaly (score=-0.29)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 9976,
+    "name": "vmmemWSL",
+    "cpu_percent": 0.33,
+    "memory_percent": 14.26,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 10252,
+    "name": "FileCoAuth.exe",
+    "cpu_percent": 0.37,
+    "memory_percent": 0.27,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 10864,
+    "name": "LinkedIn.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.76,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 11420,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 0.53,
+    "memory_percent": 0.71,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 12712,
+    "name": "ChatGPT.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.88,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 13220,
+    "name": "chrome.exe",
+    "cpu_percent": 0.33,
+    "memory_percent": 0.76,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 14120,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.91,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 14136,
+    "name": "ChatGPT.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.71,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 14420,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.43,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 14920,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.11,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 16244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.67,
+    "memory_percent": 0.59,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 19112,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.68,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 20512,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.2,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 21376,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 2.43,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 21856,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 2.92,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 22204,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.85,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 22800,
+    "name": "Code.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 1.77,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 23164,
+    "name": "chrome.exe",
+    "cpu_percent": 0.2,
+    "memory_percent": 0.87,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 24028,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 1.05,
+    "memory_percent": 0.98,
+    "reason": "ML Anomaly (score=-0.28)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 24896,
+    "name": "msrdc.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.34,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 24984,
+    "name": "codex.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 25128,
+    "name": "msrdc.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.34,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 26244,
+    "name": "Code.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 2.64,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 26340,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.01,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 26792,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.15,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 27892,
+    "name": "chrome.exe",
+    "cpu_percent": 0.7,
+    "memory_percent": 0.78,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 27992,
+    "name": "svchost.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 28324,
+    "name": "chrome.exe",
+    "cpu_percent": 0.89,
+    "memory_percent": 1.37,
+    "reason": "ML Anomaly (score=-0.26)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 28676,
+    "name": "SearchProtocolHost.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 28884,
+    "name": "Code.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 5.0,
+    "reason": "ML Anomaly (score=-0.30)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 29236,
+    "name": "dllhost.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:10:42"
+  },
+  {
+    "pid": 1332,
+    "name": "lsass.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 1644,
+    "name": "svchost.exe",
+    "cpu_percent": 0.23,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 1800,
+    "name": "dwm.exe",
+    "cpu_percent": 0.72,
+    "memory_percent": 0.7,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 2228,
+    "name": "svchost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 2324,
+    "name": "svchost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.04,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 2996,
+    "name": "BlueStacksServices.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.28,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 3816,
+    "name": "MemCompression",
+    "cpu_percent": 11.25,
+    "memory_percent": 5.45,
+    "reason": "ML Anomaly (score=-0.41)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 4060,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.17,
+    "memory_percent": 1.4,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 4324,
+    "name": "svchost.exe",
+    "cpu_percent": 0.13,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 4412,
+    "name": "audiodg.exe",
+    "cpu_percent": 0.34,
+    "memory_percent": 0.37,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 4848,
+    "name": "WmiPrvSE.exe",
+    "cpu_percent": 0.14,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 5168,
+    "name": "svchost.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 5436,
+    "name": "python.exe",
+    "cpu_percent": 8.25,
+    "memory_percent": 1.45,
+    "reason": "ML Anomaly (score=-0.33)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 5480,
+    "name": "svchost.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.2,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 5584,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.25,
+    "memory_percent": 1.36,
+    "reason": "ML Anomaly (score=-0.23)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 5620,
+    "name": "svchost.exe",
+    "cpu_percent": 0.36,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.23)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 5760,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 6420,
+    "name": "mysqld.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.23,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 6592,
+    "name": "chrome.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 1.72,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 7264,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 1.03,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 8920,
+    "name": "svchost.exe",
+    "cpu_percent": 0.2,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 9032,
+    "name": "SearchFilterHost.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.08,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 9912,
+    "name": "explorer.exe",
+    "cpu_percent": 5.41,
+    "memory_percent": 2.29,
+    "reason": "ML Anomaly (score=-0.35)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 9976,
+    "name": "vmmemWSL",
+    "cpu_percent": 0.21,
+    "memory_percent": 4.88,
+    "reason": "ML Anomaly (score=-0.38)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 10252,
+    "name": "FileCoAuth.exe",
+    "cpu_percent": 0.67,
+    "memory_percent": 0.27,
+    "reason": "ML Anomaly (score=-0.27)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 10864,
+    "name": "LinkedIn.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.63,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 11420,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 1.43,
+    "memory_percent": 0.7,
+    "reason": "ML Anomaly (score=-0.29)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 12148,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.75,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 12376,
+    "name": "WidgetService.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 13220,
+    "name": "chrome.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.76,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 14120,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.42,
+    "memory_percent": 0.89,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 14420,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.19,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 14920,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 1.38,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.29)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 15344,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.73,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 15640,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.73,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 16244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.7,
+    "memory_percent": 0.55,
+    "reason": "ML Anomaly (score=-0.26)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 17488,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.0,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 19640,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.54,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 20152,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.79,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 20512,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 1.19,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 21376,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.4,
+    "memory_percent": 2.4,
+    "reason": "ML Anomaly (score=-0.30)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 21856,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 2.21,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 22204,
+    "name": "Spotify.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.73,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 22800,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.54,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 22996,
+    "name": "svchost.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 23164,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.87,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 24028,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.87,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 26084,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.62,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 26244,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.97,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 26340,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.91,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 26792,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.15,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 27892,
+    "name": "chrome.exe",
+    "cpu_percent": 1.54,
+    "memory_percent": 1.0,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 28324,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.49,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 28884,
+    "name": "Code.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 4.55,
+    "reason": "ML Anomaly (score=-0.37)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-20 18:11:09"
+  },
+  {
+    "pid": 188,
+    "name": "",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.54,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 428,
+    "name": "OneDrive.exe",
+    "cpu_percent": 6.02,
+    "memory_percent": 1.46,
+    "reason": "ML Anomaly (score=-0.39)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 1384,
+    "name": "LsaIso.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.01,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 1392,
+    "name": "lsass.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.15,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 1596,
+    "name": "svchost.exe",
+    "cpu_percent": 0.26,
+    "memory_percent": 0.25,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 1688,
+    "name": "explorer.exe",
+    "cpu_percent": 3.73,
+    "memory_percent": 1.56,
+    "reason": "ML Anomaly (score=-0.35)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 1776,
+    "name": "svchost.exe",
+    "cpu_percent": 0.33,
+    "memory_percent": 0.19,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 1972,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.02,
+    "memory_percent": 0.22,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 2208,
+    "name": "svchost.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 3808,
+    "name": "MemCompression",
+    "cpu_percent": 1.38,
+    "memory_percent": 1.68,
+    "reason": "ML Anomaly (score=-0.28)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 3940,
+    "name": "msedge.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 1.6,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 4188,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.31,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 4788,
+    "name": "svchost.exe",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 5600,
+    "name": "servicehost.exe",
+    "cpu_percent": 0.6,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 5704,
+    "name": "svchost.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 6068,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.24,
+    "memory_percent": 0.44,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 6128,
+    "name": "svchost.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.27,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 6324,
+    "name": "SECOMN64.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.02,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 6500,
+    "name": "MsMpEng.exe",
+    "cpu_percent": 1.62,
+    "memory_percent": 2.61,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 6596,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.39,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 6776,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.49,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 8728,
+    "name": "svchost.exe",
+    "cpu_percent": 0.02,
+    "memory_percent": 0.01,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 9992,
+    "name": "msedge.exe",
+    "cpu_percent": 1.84,
+    "memory_percent": 0.71,
+    "reason": "ML Anomaly (score=-0.24)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 10420,
+    "name": "chrome.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.43,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 10548,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.83,
+    "reason": "ML Anomaly (score=-0.28)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 10916,
+    "name": "svchost.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.17,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 11836,
+    "name": "SecurityHealthService.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 12956,
+    "name": "taskhostw.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.04,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 15888,
+    "name": "SearchHost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.28,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 17204,
+    "name": "chrome.exe",
+    "cpu_percent": 0.87,
+    "memory_percent": 3.33,
+    "reason": "ML Anomaly (score=-0.36)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 17224,
+    "name": "chrome.exe",
+    "cpu_percent": 0.47,
+    "memory_percent": 0.08,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 18296,
+    "name": "svchost.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.2,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 19056,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.8,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 21320,
+    "name": "python.exe",
+    "cpu_percent": 7.33,
+    "memory_percent": 2.2,
+    "reason": "ML Anomaly (score=-0.42)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 21340,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 21360,
+    "name": "dwm.exe",
+    "cpu_percent": 0.26,
+    "memory_percent": 0.3,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 21796,
+    "name": "OmenCommandCenterBackground.exe",
+    "cpu_percent": 0.7,
+    "memory_percent": 0.52,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 22012,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.54,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 22236,
+    "name": "svchost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.39,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 22388,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.19,
+    "memory_percent": 1.13,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 23020,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.44,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 26124,
+    "name": "SearchProtocolHost.exe",
+    "cpu_percent": 2.77,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 27980,
+    "name": "Lively.exe",
+    "cpu_percent": 0.05,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 28720,
+    "name": "msedge.exe",
+    "cpu_percent": 1.53,
+    "memory_percent": 1.25,
+    "reason": "ML Anomaly (score=-0.26)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 28888,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.6,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 29412,
+    "name": "OverlayHelper.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.22,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 29708,
+    "name": "vmmemWSL",
+    "cpu_percent": 3.71,
+    "memory_percent": 13.9,
+    "reason": "ML Anomaly (score=-0.46)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 30212,
+    "name": "RuntimeBroker.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.41,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 30692,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 1.61,
+    "memory_percent": 0.44,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 31208,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.35,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 31516,
+    "name": "FileCoAuth.exe",
+    "cpu_percent": 0.4,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:53:13"
+  },
+  {
+    "pid": 188,
+    "name": "",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.54,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 428,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 1.25,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 1688,
+    "name": "explorer.exe",
+    "cpu_percent": 0.14,
+    "memory_percent": 1.93,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 1776,
+    "name": "svchost.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.2,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 2740,
+    "name": "svchost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 3492,
+    "name": "svchost.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.17,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 3708,
+    "name": "csrss.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.03,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 3808,
+    "name": "MemCompression",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.63,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 3940,
+    "name": "msedge.exe",
+    "cpu_percent": 0.33,
+    "memory_percent": 0.92,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 4560,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.02,
+    "memory_percent": 0.53,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 5068,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.78,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 5320,
+    "name": "svchost.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 5600,
+    "name": "servicehost.exe",
+    "cpu_percent": 0.49,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 6068,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 0.51,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 6128,
+    "name": "svchost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.58,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 6500,
+    "name": "MsMpEng.exe",
+    "cpu_percent": 0.53,
+    "memory_percent": 1.45,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 6596,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.43,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 6776,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.51,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 7008,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.35,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 9068,
+    "name": "svchost.exe",
+    "cpu_percent": 0.27,
+    "memory_percent": 0.17,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 9992,
+    "name": "msedge.exe",
+    "cpu_percent": 1.12,
+    "memory_percent": 1.45,
+    "reason": "ML Anomaly (score=-0.27)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 10264,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.27,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 10420,
+    "name": "chrome.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 1.04,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 10548,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.68,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 14392,
+    "name": "TextInputHost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.3,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 17204,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 3.84,
+    "reason": "ML Anomaly (score=-0.35)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 17224,
+    "name": "chrome.exe",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.1,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 18604,
+    "name": "SpotifyLauncher.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 19056,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.79,
+    "memory_percent": 0.83,
+    "reason": "ML Anomaly (score=-0.24)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 21320,
+    "name": "python.exe",
+    "cpu_percent": 7.87,
+    "memory_percent": 1.91,
+    "reason": "ML Anomaly (score=-0.42)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 21340,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.3,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 21360,
+    "name": "dwm.exe",
+    "cpu_percent": 0.23,
+    "memory_percent": 0.43,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 21796,
+    "name": "OmenCommandCenterBackground.exe",
+    "cpu_percent": 0.2,
+    "memory_percent": 0.77,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 22012,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.6,
+    "memory_percent": 0.75,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 22388,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.17,
+    "memory_percent": 1.34,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 23020,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.34,
+    "memory_percent": 1.02,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 27980,
+    "name": "Lively.exe",
+    "cpu_percent": 0.39,
+    "memory_percent": 0.24,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 28720,
+    "name": "msedge.exe",
+    "cpu_percent": 0.51,
+    "memory_percent": 1.66,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 28888,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.65,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 29412,
+    "name": "OverlayHelper.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.25,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 29708,
+    "name": "vmmemWSL",
+    "cpu_percent": 2.82,
+    "memory_percent": 13.12,
+    "reason": "ML Anomaly (score=-0.45)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 30692,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.51,
+    "memory_percent": 0.36,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 31016,
+    "name": "wsl.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.03,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 31300,
+    "name": "WSHelper.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.05,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 31516,
+    "name": "FileCoAuth.exe",
+    "cpu_percent": 0.23,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 12:56:20"
+  },
+  {
+    "pid": 188,
+    "name": "",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.54,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 428,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 1.04,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 1464,
+    "name": "HP.OMEN.VirtualCamHelper.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.07,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 1596,
+    "name": "svchost.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.38,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 1688,
+    "name": "explorer.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 1.99,
+    "reason": "ML Anomaly (score=-0.23)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 1860,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.29,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 2008,
+    "name": "DesktopExtension.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.08,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 3456,
+    "name": "NVDisplay.Container.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.09,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 3808,
+    "name": "MemCompression",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.28,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 3940,
+    "name": "msedge.exe",
+    "cpu_percent": 0.62,
+    "memory_percent": 1.12,
+    "reason": "ML Anomaly (score=-0.31)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 4188,
+    "name": "msedge.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.31,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 4560,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.5,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 5068,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.02,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 5600,
+    "name": "servicehost.exe",
+    "cpu_percent": 0.72,
+    "memory_percent": 0.24,
+    "reason": "ML Anomaly (score=-0.30)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 5704,
+    "name": "svchost.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.22,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 6068,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.58,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 6128,
+    "name": "svchost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.6,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 6500,
+    "name": "MsMpEng.exe",
+    "cpu_percent": 0.38,
+    "memory_percent": 1.54,
+    "reason": "ML Anomaly (score=-0.23)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 6596,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.43,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 6776,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 0.56,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 7008,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.39,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 7236,
+    "name": "svchost.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.12,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 9992,
+    "name": "msedge.exe",
+    "cpu_percent": 0.28,
+    "memory_percent": 1.59,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 10264,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 0.39,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 10420,
+    "name": "chrome.exe",
+    "cpu_percent": 0.03,
+    "memory_percent": 1.28,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 14392,
+    "name": "TextInputHost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.34,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 14664,
+    "name": "msrdc.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 15276,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.23,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 17204,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 4.66,
+    "reason": "ML Anomaly (score=-0.39)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 17224,
+    "name": "chrome.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 18604,
+    "name": "SpotifyLauncher.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 19056,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.25,
+    "memory_percent": 0.87,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 19496,
+    "name": "HPSystemEventUtilityBackground.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 0.1,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 21320,
+    "name": "python.exe",
+    "cpu_percent": 7.8,
+    "memory_percent": 1.99,
+    "reason": "ML Anomaly (score=-0.43)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 21340,
+    "name": "WhatsApp.Root.exe",
+    "cpu_percent": 0.13,
+    "memory_percent": 0.51,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 21360,
+    "name": "dwm.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.43,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 21796,
+    "name": "OmenCommandCenterBackground.exe",
+    "cpu_percent": 0.04,
+    "memory_percent": 1.16,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 22012,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.76,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 22388,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.14,
+    "memory_percent": 1.47,
+    "reason": "ML Anomaly (score=-0.20)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 23020,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.98,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 27980,
+    "name": "Lively.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.32,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 28720,
+    "name": "msedge.exe",
+    "cpu_percent": 0.62,
+    "memory_percent": 1.25,
+    "reason": "ML Anomaly (score=-0.30)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 28888,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.61,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 29412,
+    "name": "OverlayHelper.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.23,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 29708,
+    "name": "vmmemWSL",
+    "cpu_percent": 4.91,
+    "memory_percent": 6.23,
+    "reason": "ML Anomaly (score=-0.44)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 30112,
+    "name": "uihost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 30692,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.32,
+    "memory_percent": 0.31,
+    "reason": "ML Anomaly (score=-0.24)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-21 13:01:07"
+  },
+  {
+    "pid": 1244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 6.84,
+    "memory_percent": 1.49,
+    "reason": "ML Anomaly (score=-0.27)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 1324,
+    "name": "lsass.exe",
+    "cpu_percent": 0.31,
+    "memory_percent": 0.21,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 1352,
+    "name": "svchost.exe",
+    "cpu_percent": 0.31,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 1532,
+    "name": "svchost.exe",
+    "cpu_percent": 0.43,
+    "memory_percent": 0.31,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 1704,
+    "name": "svchost.exe",
+    "cpu_percent": 0.62,
+    "memory_percent": 0.18,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 1968,
+    "name": "wermgr.exe",
+    "cpu_percent": 0.88,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 2908,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.39,
+    "memory_percent": 1.57,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 3308,
+    "name": "svchost.exe",
+    "cpu_percent": 0.88,
+    "memory_percent": 0.29,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 4336,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 0.97,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 4416,
+    "name": "svchost.exe",
+    "cpu_percent": 0.27,
+    "memory_percent": 0.14,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 4772,
+    "name": "msedge.exe",
+    "cpu_percent": 1.82,
+    "memory_percent": 1.53,
+    "reason": "ML Anomaly (score=-0.15)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 4916,
+    "name": "svchost.exe",
+    "cpu_percent": 1.27,
+    "memory_percent": 0.43,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 5804,
+    "name": "svchost.exe",
+    "cpu_percent": 5.37,
+    "memory_percent": 0.24,
+    "reason": "ML Anomaly (score=-0.28)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 6116,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.15,
+    "memory_percent": 0.49,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 6216,
+    "name": "WmiPrvSE.exe",
+    "cpu_percent": 0.31,
+    "memory_percent": 0.11,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 6348,
+    "name": "MsMpEng.exe",
+    "cpu_percent": 8.28,
+    "memory_percent": 3.47,
+    "reason": "ML Anomaly (score=-0.30)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 7900,
+    "name": "msedge.exe",
+    "cpu_percent": 0.17,
+    "memory_percent": 0.65,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 8692,
+    "name": "svchost.exe",
+    "cpu_percent": 2.26,
+    "memory_percent": 0.34,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 10216,
+    "name": "svchost.exe",
+    "cpu_percent": 0.9,
+    "memory_percent": 0.17,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 10704,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.32,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 13268,
+    "name": "ms-teams.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.55,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 13688,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.43,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 13728,
+    "name": "python.exe",
+    "cpu_percent": 8.08,
+    "memory_percent": 2.81,
+    "reason": "ML Anomaly (score=-0.29)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 14136,
+    "name": "msedge.exe",
+    "cpu_percent": 1.63,
+    "memory_percent": 1.82,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 14304,
+    "name": "OverlayHelper.exe",
+    "cpu_percent": 0.56,
+    "memory_percent": 0.23,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 14540,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.68,
+    "memory_percent": 1.6,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 14836,
+    "name": "msedge.exe",
+    "cpu_percent": 0.23,
+    "memory_percent": 1.45,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 15064,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 3.75,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 16548,
+    "name": "msedge.exe",
+    "cpu_percent": 1.26,
+    "memory_percent": 3.02,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 17088,
+    "name": "WindowsTerminal.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 1.13,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 18788,
+    "name": "explorer.exe",
+    "cpu_percent": 0.13,
+    "memory_percent": 2.34,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 18860,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 3.87,
+    "reason": "ML Anomaly (score=-0.22)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 18892,
+    "name": "SearchHost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.26,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 19068,
+    "name": "dwm.exe",
+    "cpu_percent": 0.84,
+    "memory_percent": 1.04,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 19084,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.93,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 19232,
+    "name": "msedge.exe",
+    "cpu_percent": 2.4,
+    "memory_percent": 1.16,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 20072,
+    "name": "Docker Desktop.exe",
+    "cpu_percent": 0.72,
+    "memory_percent": 1.64,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:14:04"
+  },
+  {
+    "pid": 740,
+    "name": "svchost.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.29,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 1244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.69,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 1420,
+    "name": "TextInputHost.exe",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.62,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 3816,
+    "name": "svchost.exe",
+    "cpu_percent": 0.41,
+    "memory_percent": 0.1,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 4336,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 1.12,
+    "memory_percent": 0.61,
+    "reason": "ML Anomaly (score=-0.25)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 4708,
+    "name": "svchost.exe",
+    "cpu_percent": 0.14,
+    "memory_percent": 0.19,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 5456,
+    "name": "StartMenuExperienceHost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.12,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 5724,
+    "name": "msedge.exe",
+    "cpu_percent": 1.48,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.29)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 6116,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.81,
+    "reason": "ML Anomaly (score=-0.12)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 6216,
+    "name": "WmiPrvSE.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 6348,
+    "name": "MsMpEng.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 3.05,
+    "reason": "ML Anomaly (score=-0.24)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 6688,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.16,
+    "memory_percent": 0.33,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 8292,
+    "name": "chrome.exe",
+    "cpu_percent": 1.22,
+    "memory_percent": 2.85,
+    "reason": "ML Anomaly (score=-0.26)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 10232,
+    "name": "msedge.exe",
+    "cpu_percent": 0.09,
+    "memory_percent": 2.06,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 10844,
+    "name": "svchost.exe",
+    "cpu_percent": 0.18,
+    "memory_percent": 0.06,
+    "reason": "ML Anomaly (score=-0.16)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 11388,
+    "name": "SearchProtocolHost.exe",
+    "cpu_percent": 0.19,
+    "memory_percent": 0.22,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 12740,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.1,
+    "memory_percent": 1.51,
+    "reason": "ML Anomaly (score=-0.14)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 13740,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 0.66,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 14304,
+    "name": "OverlayHelper.exe",
+    "cpu_percent": 0.11,
+    "memory_percent": 0.24,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 14728,
+    "name": "python.exe",
+    "cpu_percent": 7.82,
+    "memory_percent": 2.8,
+    "reason": "ML Anomaly (score=-0.37)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 15064,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.45,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 15872,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.12,
+    "reason": "ML Anomaly (score=-0.00)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 16456,
+    "name": "OmenCommandCenterBackground.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.33,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 16820,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.0,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 17204,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.01,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 17704,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.19,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 17872,
+    "name": "chrome.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.67,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 18788,
+    "name": "explorer.exe",
+    "cpu_percent": 0.39,
+    "memory_percent": 2.83,
+    "reason": "ML Anomaly (score=-0.23)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 19068,
+    "name": "dwm.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.02,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 19084,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.03,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 20664,
+    "name": "powershell.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 20696,
+    "name": "LockApp.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.26,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 21208,
+    "name": "OfficeClickToRun.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.0,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 21628,
+    "name": "WindowsTerminal.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.55,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 22116,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.42,
+    "reason": "ML Anomaly (score=-0.05)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:38"
+  },
+  {
+    "pid": 740,
+    "name": "svchost.exe",
+    "cpu_percent": 0.76,
+    "memory_percent": 0.27,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 1244,
+    "name": "OneDrive.exe",
+    "cpu_percent": 0.24,
+    "memory_percent": 1.18,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 1704,
+    "name": "svchost.exe",
+    "cpu_percent": 0.2,
+    "memory_percent": 0.19,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 3936,
+    "name": "MemCompression",
+    "cpu_percent": 0.06,
+    "memory_percent": 0.78,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 4336,
+    "name": "com.docker.backend.exe",
+    "cpu_percent": 1.16,
+    "memory_percent": 0.61,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 5456,
+    "name": "StartMenuExperienceHost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.12,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 5724,
+    "name": "msedge.exe",
+    "cpu_percent": 3.86,
+    "memory_percent": 1.18,
+    "reason": "ML Anomaly (score=-0.26)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 6116,
+    "name": "mc-fw-host.exe",
+    "cpu_percent": 0.33,
+    "memory_percent": 0.81,
+    "reason": "ML Anomaly (score=-0.13)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 6216,
+    "name": "WmiPrvSE.exe",
+    "cpu_percent": 0.2,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.08)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 6256,
+    "name": "SecurityHealthService.exe",
+    "cpu_percent": 0.13,
+    "memory_percent": 0.13,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 6348,
+    "name": "MsMpEng.exe",
+    "cpu_percent": 0.48,
+    "memory_percent": 3.1,
+    "reason": "ML Anomaly (score=-0.27)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 6688,
+    "name": "SearchIndexer.exe",
+    "cpu_percent": 0.92,
+    "memory_percent": 0.37,
+    "reason": "ML Anomaly (score=-0.18)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 8292,
+    "name": "chrome.exe",
+    "cpu_percent": 1.17,
+    "memory_percent": 2.85,
+    "reason": "ML Anomaly (score=-0.23)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 9004,
+    "name": "msedge.exe",
+    "cpu_percent": 0.07,
+    "memory_percent": 0.4,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 10232,
+    "name": "msedge.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 2.05,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 11388,
+    "name": "SearchProtocolHost.exe",
+    "cpu_percent": 0.08,
+    "memory_percent": 0.23,
+    "reason": "ML Anomaly (score=-0.01)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 12740,
+    "name": "PhoneExperienceHost.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.51,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 14728,
+    "name": "python.exe",
+    "cpu_percent": 7.67,
+    "memory_percent": 2.87,
+    "reason": "ML Anomaly (score=-0.33)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 15064,
+    "name": "msedgewebview2.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.51,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 15664,
+    "name": "FileCoAuth.exe",
+    "cpu_percent": 0.63,
+    "memory_percent": 0.16,
+    "reason": "ML Anomaly (score=-0.17)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 15872,
+    "name": "CrossDeviceService.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.13,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 16456,
+    "name": "OmenCommandCenterBackground.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.33,
+    "reason": "ML Anomaly (score=-0.06)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 16820,
+    "name": "msedge.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.94,
+    "reason": "ML Anomaly (score=-0.11)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 17204,
+    "name": "chrome.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.01,
+    "reason": "ML Anomaly (score=-0.09)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 17704,
+    "name": "chrome.exe",
+    "cpu_percent": 2.25,
+    "memory_percent": 1.19,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 17788,
+    "name": "ms-teams.exe",
+    "cpu_percent": 0.12,
+    "memory_percent": 0.24,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 17872,
+    "name": "chrome.exe",
+    "cpu_percent": 0.24,
+    "memory_percent": 0.67,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 18788,
+    "name": "explorer.exe",
+    "cpu_percent": 4.1,
+    "memory_percent": 2.89,
+    "reason": "ML Anomaly (score=-0.27)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 19068,
+    "name": "dwm.exe",
+    "cpu_percent": 2.23,
+    "memory_percent": 0.99,
+    "reason": "ML Anomaly (score=-0.21)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 19084,
+    "name": "Code.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 2.03,
+    "reason": "ML Anomaly (score=-0.10)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 20664,
+    "name": "powershell.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.07,
+    "reason": "ML Anomaly (score=-0.02)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 20696,
+    "name": "LockApp.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.26,
+    "reason": "ML Anomaly (score=-0.04)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 21208,
+    "name": "OfficeClickToRun.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.0,
+    "reason": "ML Anomaly (score=-0.03)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 21628,
+    "name": "WindowsTerminal.exe",
+    "cpu_percent": 0.0,
+    "memory_percent": 1.55,
+    "reason": "ML Anomaly (score=-0.07)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  },
+  {
+    "pid": 22116,
+    "name": "msedge.exe",
+    "cpu_percent": 1.12,
+    "memory_percent": 1.66,
+    "reason": "ML Anomaly (score=-0.19)",
+    "severity": "Low",
+    "ml_active": true,
+    "timestamp": "2026-04-23 09:43:51"
+  }
+]
